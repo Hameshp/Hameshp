@@ -10,7 +10,7 @@ ___
 
 &ensp; :email:  You can contact me at [hameshp04@hotmail.com](mailto:hameshp04@hotmail.com)
 
-&ensp; :computer:  I'm currently working on a __Website redesign__ (Long-term)
+&ensp; :computer:  I'm currently working on a __Website redesign__ (_Long-term_)
 
 &ensp; :handshake:  I'm open to collaborating on Frontend projects.
 ___
